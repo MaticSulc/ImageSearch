@@ -1,0 +1,16 @@
+body {
+  width: 85%;
+  margin: 3em auto 0 auto;
+}
+
+.images {
+  column-count: 3;
+}
+
+img {
+  width: 100%;
+}
+
+.pages{
+  margin-left: 3px;
+}
