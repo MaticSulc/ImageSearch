@@ -1,6 +1,9 @@
 # Image Search
 
-- [x] add search
-- [x] add pages
-- [x] add api
-- [] add favourites
+- [x] add search function
+- [x] add pages movement
+- [x] add API source
+- [ ] add favourites menu
+- [ ] add selection, saving as batch?
+
+### Made in Vanilla JS
