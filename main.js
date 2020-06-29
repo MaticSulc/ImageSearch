@@ -1,4 +1,4 @@
-const API_URL = 'https://api.unsplash.com/search/photos?client_id=CLIENT_ID_HERE';
+const API_URL = 'https://api.unsplash.com/search/photos?client_id=B7RNsPmUh5aJyA0DmQPGTexVmfG_gZFT8u2hUKhDyDc';
 const form = document.querySelector('form');
 const input = document.querySelector('input');
 const loadingImage = document.getElementById('loadingImage');
